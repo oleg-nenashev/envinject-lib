@@ -3,4 +3,3 @@ node {
   echo "Hello!"
   sh "mvn clean verify -ntp -B"
 }
-
